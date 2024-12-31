@@ -1,0 +1,61 @@
+{
+  "uploadVideos": [
+    {
+      "id": "36dd",
+      "caption": "Premalu",
+      "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRg6f7PUh60k_1PX0yoy9m76pL7J9r97-a38g&s",
+      "youtubeLink": "https://www.youtube.com/embed/rR_2ti4l3nM"
+    },
+    {
+      "id": "2e3f",
+      "caption": "ARM",
+      "imgUrl": "https://upload.wikimedia.org/wikipedia/en/b/b3/Ajayante_Randam_Moshanam.jpg",
+      "youtubeLink": "https://www.youtube.com/embed/rFgS10V8908"
+    },
+    {
+      "id": "9c30",
+      "caption": "Sita ramam",
+      "imgUrl": "https://cdn.dribbble.com/userupload/16398637/file/original-bed1e9c00fccbd2383b3fbc2d2105228.jpg?resize=752x&vertical=center",
+      "youtubeLink": "https://www.youtube.com/embed/40ylJVaRBxg"
+    },
+    {
+      "id": "fe88",
+      "caption": "Vaazha",
+      "imgUrl": "https://assetscdn1.paytm.com/images/cinema/Vaazha---Biopic-of-a-Billion-Boys-Gallery-8161fa30-4e8a-11ef-8548-5d0eeaabae8f.jpg",
+      "youtubeLink": "https://www.youtube.com/embed/EdsxhVLDLb4"
+    }
+  ],
+  "categories": [
+    {
+      "id": "1ea9",
+      "categoryName": "Trailers",
+      "allVideos": [
+        {
+          "id": "9c30",
+          "caption": "Sita ramam",
+          "imgUrl": "https://cdn.dribbble.com/userupload/16398637/file/original-bed1e9c00fccbd2383b3fbc2d2105228.jpg?resize=752x&vertical=center",
+          "youtubeLink": "https://www.youtube.com/embed/40ylJVaRBxg"
+        }
+      ]
+    },
+    {
+      "id": "fbdc",
+      "categoryName": "Study Materials",
+      "allVideos": []
+    }
+  ],
+  "history": [
+    {
+      "id": "7142",
+      "caption": "Sita ramam",
+      "youtubeLink": "https://www.youtube.com/embed/40ylJVaRBxg",
+      "timeStamp": "12/19/2024, 1:58:01 PM GMT+5:30"
+    },
+    {
+      "id": "edfc",
+      "caption": "thattathin marayathu",
+      "youtubeLink": "https://www.youtube.com/embed/zITXHmHaaGw",
+      "timeStamp": "12/20/2024, 12:38:37 PM GMT+5:30"
+    }
+  ]
+}
